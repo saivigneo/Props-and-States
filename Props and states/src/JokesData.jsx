@@ -1,14 +1,18 @@
 export default[
     {
-        setup: "I got my daughter a fridge for her birthday.",
-        punchline: "I can't wait to see her face light up when she opens it."
+        setup: "I am gonna tell a joke.",
+        punchline: "Joke."
     },
     {
-        setup: "How did the hacker escape the police?",
-        punchline:"He is just ransomware?"
+        setup: "Do you know french?",
+        punchline:"Yes french"
     },
     {
-        setup:"Why don't pirates travel on mountain roads?",
-        punchline:"Scurvy"
+        setup:"Why is a line straight not curvered",
+        punchline:"Because it is line"
+    },
+    {
+        setup:"Nothing starts with N and ends with g",
+        punchline:"Really"
     }
     ]
